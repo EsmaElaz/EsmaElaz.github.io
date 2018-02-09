@@ -1,0 +1,28 @@
+body {
+  background-image: url("achtergrond.jpg")
+}
+h1 {
+  font-size: 40px;
+  font-family: Georgia;
+  text-align:center;
+  color: blue;
+  background-color: #add8e6;
+  border: 5px double blue;
+}
+a {
+  color: #1c86ee;
+  font-size: 20px;
+  font-variant: normal;
+  font-weight: 900;
+  border: 5px double blue;
+  padding: 3px;
+  border-radius: 20px;
+
+}
+img {
+  border: 10px double blue;
+  margin-left: 380px;
+}
+h3, h4 {
+  text-align: center;
+}

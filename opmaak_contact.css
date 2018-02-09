@@ -1,0 +1,27 @@
+a {
+  color: #1c86ee;
+  font-size: 20px;
+  font-variant: normal;
+  font-weight: 900;
+  border: 5px double blue;
+  padding: 3px;
+  border-radius: 20px;
+
+}
+body {
+  background-image: url("achtergrond.jpg")
+}
+h1 {
+  text-align: center;
+  font-weight: 900;
+  background-color: #add8e6;
+  border: 5px double blue;
+  color: blue;
+}
+img {
+  margin-top: 100px;
+}
+ul {
+  list-style-type: square;
+
+}
